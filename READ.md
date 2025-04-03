@@ -1,0 +1,13 @@
+# Hello, I'm Ajay!
+
+Welcome to my GitHub profile. I'm passionate about software development and enjoy working on various projects. Here are some things about me:
+
+- 🔭 I’m currently working on [Shopping Website]
+- 🌱 I’m currently learning [SpringBoot]
+- 👯 I’m looking to collaborate on [Java Projects]
+- 💬 Ask me about [java,springboot,react,postgresql]
+- 📫 How to reach me: AAvula01@indianatech.net
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like watching anime
+
+Check out my repositories below to see what I've been working on!
