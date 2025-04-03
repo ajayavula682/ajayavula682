@@ -1,16 +1,18 @@
-## Hi there 👋
+Hello, I'm Ajay!
+Welcome to my GitHub profile. I'm passionate about software development and enjoy working on various projects. Here are some things about me:
 
-<!--
-**ajayavula682/ajayavula682** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on [Shopping Website]  
 
-Here are some ideas to get you started:
+🌱 I’m currently learning [SpringBoot]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on [Java Projects]
+
+💬 Ask me about [java,springboot,react,postgresql]
+
+📫 How to reach me: AAvula01@indianatech.net
+
+😄 Pronouns: he/him
+
+⚡ Fun fact: I like watching anime-->Current watching -->{Action on titan}
+
+Check out my repositories below to see what I've been working on!
