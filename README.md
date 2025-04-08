@@ -13,6 +13,8 @@ Welcome to my GitHub profile. I'm passionate about software development and enjo
 
 😄 Pronouns: he/him
 
+linkedin :https://www.linkedin.com/in/ajaykumar-reddy/
+
 ⚡ Fun fact: I like watching anime-->Current watching -->{Action on titan}
 
 Check out my repositories below to see what I've been working on!
