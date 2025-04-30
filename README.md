@@ -1,7 +1,7 @@
 Hello, I'm Ajay!
 Welcome to my GitHub profile. I'm passionate about software development and enjoy working on various projects. Here are some things about me:
 
-🔭 I’m currently working on [React ]  
+🔭 I’m currently working on [React based projects ]  
 
 🌱 I’m currently learning [SpringBoot]
 
