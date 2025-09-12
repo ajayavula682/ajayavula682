@@ -3,13 +3,13 @@ Welcome to my GitHub profile. I'm passionate about software development and enjo
 
 🔭 I’m currently working on [React based projects ]  
 
-🌱 I’m currently learning [SpringBoot]
+🌱 I’m currently learning [SpringBoot],AWS[s3,router53,ses,Rds...etc]
 
 👯 I’m looking to collaborate on [Java Projects]
 
 💬 Ask me about [java,springboot,react,postgresql]
 
-📫 How to reach me: AAvula01@indianatech.net
+📫 How to reach me: ajayavula682@icloud.com
 
 😄 Pronouns: he/him
 
