@@ -42,8 +42,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajayavula682&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayavula682&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajayavula682&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayavula682&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
@@ -52,10 +52,14 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajayavula682&theme=radical&no-frame=true&row=1&column=6" alt="trophies" />
+  <img src="https://img.shields.io/github/followers/ajayavula682?label=GitHub%20Followers&style=for-the-badge&logo=github&color=blueviolet&logoColor=white" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-F7A825?style=for-the-badge&logo=stackshare&logoColor=white" alt="Full Stack Developer" />
+  <img src="https://img.shields.io/badge/Focus-Java%20%7C%20Spring%20Boot%20%7C%20React-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20Learner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Learner" />
+  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-green?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
 </p>
 
 ---
