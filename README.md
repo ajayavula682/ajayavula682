@@ -64,14 +64,4 @@
 
 ---
 
-### 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajayavula682&theme=radical&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
-<p align="center">
-  <i>⭐ Check out my repositories below and feel free to star anything you find useful!</i>
-</p>
