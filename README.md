@@ -41,14 +41,14 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajayavula682&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github&cache_seconds=1800" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayavula682&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" width="48%" />
-</p>
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=ajayavula682&theme=radical&hide_border=true" width="48%" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ajayavula682&theme=radical&hide_border=true" alt="GitHub Streak" width="60%" />
-</p>
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajayavula682&theme=react-dark&hide_border=true" width="90%" />
+
+<!-- Skill Icons -->
+<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,git&theme=dark" />
 
 ---
 
