@@ -20,9 +20,6 @@
 - 🌱 Learning **Spring Boot** & **AWS** (S3, Route 53, SES, RDS)
 - 👯 Open to collaborate on **Java Projects**
 - 💬 Ask me about **Java · Spring Boot · React · PostgreSQL**
-- 📫 Reach me at **ajayavula682@icloud.com**
-- 😄 Pronouns: **he/him**
-- ⚡ Fun fact: Huge anime fan — currently watching **Attack on Titan** 🗡️
 
 ---
 
